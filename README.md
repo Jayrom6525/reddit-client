@@ -1,3 +1,6 @@
+Hello welcome to my reddit-client application
+this has been built with Javascript, jest ,react, redux
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
